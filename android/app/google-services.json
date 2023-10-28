@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "725686010307",
+    "project_id": "satoshi-airline",
+    "storage_bucket": "satoshi-airline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725686010307:android:1c4bba444de482800cfd76",
+        "android_client_info": {
+          "package_name": "com.example.satoshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725686010307-e8jimucboiqkcfgt84lr1di0h0hl2egq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.satoshi",
+            "certificate_hash": "b803bc2822842233c1694184ccec2e6a1e9ea05c"
+          }
+        },
+        {
+          "client_id": "725686010307-6j6h62g85e0g2mhs32dd28c54ip6mblm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhY-cP86H0XUDyNxXkbtSMxglb2xKc65o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725686010307-6j6h62g85e0g2mhs32dd28c54ip6mblm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725686010307-d282n2qsfi90qskro5s4qdsipfkqdddp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "satoshiairline.apples.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
